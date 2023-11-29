@@ -1,0 +1,1 @@
+From the images included you can see that no forking makes the program faster. No forking for the /home/riley/Desktop/ gives a time of 0.004 seconds. With forking of the same directory it gives a time of 0.007 Seconds. NEarly twice as slow with forking
