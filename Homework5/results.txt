@@ -1,0 +1,5 @@
+In order of fastest to slowest
+System 1(0.005864 seconds), System.4( 0.016342 seconds), System2( 0.018335 seconds), System3(A 0.019848 seconds), System5(0.023453 seconds).
+
+System 1 had the fastest time of 0.005 on average which is half to almost 6 times as fast in the case of System5. 
+What I believe is causing this is that there is no threads or locks in the first program so nothing needs to wait for anytjing to finsh up. 
